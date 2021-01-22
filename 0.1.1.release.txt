@@ -1,0 +1,17 @@
+Game Production
+Release Notes
+﻿
+Game: Pom's Away
+Creator: Ryan Mark (Sarah in webcourses)
+Date: January 22, 2021
+Version: 0.1.1
+ 
+New features:
+Area with angels can now be entered - nothing happens, however
+﻿
+Fixes
+Schuyler's end of game message has been modified to finish before game ends
+﻿
+Improvements:
+Zora's sprite has been moved to be more obvious for player interaction. Zora's dialog has been grouped together so player can see all the hints as to which areas they should go.
+Doorways have been widened to be more obvious to players
